@@ -1,7 +1,9 @@
-#Learning Objectives
+*Learning Objectives*
+
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-###General
+
   - What is source code management
   - What is Git
   - What is GitHub
@@ -16,4 +18,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
   - How to create a branch
   - How to merge branches
   - How to work as collaborators on a project
-	- Which files should and which files should not appear in your repo
+  - Which files should and which files should not appear in your repo
